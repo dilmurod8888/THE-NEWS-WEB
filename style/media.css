@@ -1,0 +1,545 @@
+@media(max-width:1400px) {
+    .shahsiz{
+        font-size: 14px;
+    }
+    .title{
+        margin: 15px 0;
+    }
+    .syorfin{
+        width: 600px;
+    }
+    .nav{
+        margin-top: 18px;
+    }
+    .img {
+        margin: 15px 0 30px;
+    }
+    .dil {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 48px;
+    }
+    .title {
+        display: flex;
+        justify-content: center;
+        font-size: 16px;
+
+    }
+    .footer .nav_box{
+        padding: 27px 0 28px;
+    }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .tex_box-first{
+        padding: 5px;
+    }
+    .tex {
+        width: 35%;
+        justify-content: start;
+        font-size: 12px;
+    }
+    .tex_box-title{
+        font-size: 14px;
+        line-height: normal;
+        padding-bottom: 5px; 
+    }
+    .tex_box {
+        order: 1;
+        padding: 5px 5px 8px;
+    }
+    .tex-blue {
+        border-radius: 5px;
+    }
+    .tex-green {
+        border-radius: 5px;
+    }
+    .main_text-inside {
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 0 2px;  
+    }
+    .img_text {
+        gap: 30px;
+        font-size: 14px;
+        overflow-x: scroll;
+        height: 200px;
+    }
+    .links {
+        flex-wrap: wrap;
+    }
+    .nike{
+        font-size: 17px;
+    }
+    .nik{
+        font-size: 17px;
+    }
+    .logo{
+        width: 140px;
+    }
+    .dil .container {
+        gap: 28px;
+    }
+}
+@media(max-width:1300px) {
+    .syorfin{
+        width: 580px;
+    }
+    .main_text-inside {
+        gap: 9px;
+    }
+    .footer .nav_box{
+        padding: 26px 0 27px;
+    }
+    .title{
+        margin: 14px 0;
+    }
+    .dil .container {
+        gap: 26px;
+    }
+    .dil{
+        margin-bottom: 46px;
+    }  
+}
+@media(max-width:1200px) {
+    .syorfin{
+        width: 560px;
+    }
+    .dil{
+        margin-bottom: 44px;
+    }
+    .footer .nav_box{
+        padding: 25px 0 26px;
+    }
+    .nav{
+        margin-top: 16px;
+    }
+    .main_text-inside {
+        gap: 8px;
+    }
+    .llogo{
+        width: 140px;
+    }
+    .nike{
+        font-size: 16px;
+    }
+    .title{
+        margin: 13px 0;
+    }
+    .img {
+        margin: 14px 0 28px;
+    }
+    .dil .container {
+        gap: 24px;
+    }  
+     .nik{
+        font-size: 16px;
+    }
+}
+@media(max-width:1150px) {
+    .syorfin{
+        width: 540px;
+    }
+    .dil{
+        margin-bottom: 42px;
+    }
+    .img {
+        margin: 14px 0 26px;
+    }
+    .main_text-inside {
+        gap: 7px;
+    }
+    .logo{
+        width: 130px;
+    }
+    .title{
+        margin: 12px 0;
+    }
+    .dil .container {
+        gap: 22px;
+    }
+    .footer .nav_box{
+        padding: 24px 0 25px;
+    }
+    .llogo{
+        width: 130px;
+    }
+    .nike{
+        font-size: 15px;
+    }
+    .nik{
+        font-size: 15px;
+    }  
+}
+@media(max-width:1100px) {
+    .syorfin{
+        width: 520px;
+    }
+    .dil{
+        margin-bottom: 40px;
+    }
+    .img {
+        margin: 11px 0 26px;
+    }
+    .main_text-inside {
+        gap: 6px;
+    }
+    .footer .nav_box{
+        padding: 23px 0 24px;
+    }
+    .dil .container {
+        gap: 20px;
+    }
+    .logo{
+        width: 120px;
+    }
+    .llogo{
+        width: 120px;
+    }
+    .nike{
+        font-size: 14px;
+    }
+    .title{
+        margin: 11px 0;
+    }
+    .nik{
+        font-size: 14px;
+    }
+}
+@media(max-width:1050px) {
+    .syorfin{
+        width: 500px;
+    }
+    .dil .container {
+        gap: 18px;
+    }
+    .dil{
+        margin-bottom: 38px;
+    }
+    .footer .nav_box{
+        padding: 22px 0 23px;
+    }
+    .img {
+        margin: 10px 0 22px;
+    }
+    .main_text-inside {
+        gap: 5px;
+    }
+    .title{
+        margin: 10px 0;
+    }
+    .logo{
+        width: 110px;
+    }
+    .llogo{
+        width: 110px;
+    }
+    .nike{
+        font-size: 13px;
+    }
+    .nik{
+        font-size: 13px;
+    }
+}
+@media(max-width:1000px) {
+    .ologo{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    .dil{
+        margin-bottom: 36px;
+    }
+    .img {
+        margin: 10px 0 20px;
+    }
+    .nav{
+        margin-top: 14px;
+    }
+    .dil .container {
+        gap: 16px;
+    }
+    .syorfin{
+        width: 480px;
+    }
+    .main_text-inside {
+        gap: 4px;
+    }
+    .logo{
+        width: 100px;
+    }
+    .footer .nav_box{
+        padding: 21px 0 22px;
+    }
+    .img_title{
+    font-size: 16px;
+    margin: auto;
+    }
+    .llogo{
+        width: 100px;
+    }
+    .footer .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nike{
+        font-size: 12px;
+    }
+    .title{
+        margin: 9px 0;
+    }
+    .nik{
+        font-size: 12px;
+    }
+    
+}
+@media(max-width:950px) {
+    .syorfin{
+        width: 460px;
+    }
+    .footer.nav_box{
+        padding: 20px 0 21px;
+    }
+    .dil{
+        margin-bottom: 34px;
+    }
+    .dil .container {
+        gap: 14px;
+    }
+    .main_text-inside {
+        gap: 3px;
+    }
+    .logo{
+        width: 90px;
+    }
+     .llogo{
+        width: 95px;
+    }
+    .title{
+        margin: 8px 0;
+    }
+}
+@media(max-width:900px) {
+    .syorfin{
+        width: 440px;
+    }
+    .dil{
+        margin-bottom: 32px;
+    }
+    .logo{
+        width: 85px;
+    }
+    .footer .nav_box{
+        padding: 18px 0 ;
+    }
+    .nik{
+        font-size: 11px;
+    }
+    .nav_logo{
+        gap: 2px;
+    }
+    .nike{
+        font-size: 11px;
+    }
+    .dil .container {
+        gap: 12px;
+    }
+    .menu {
+        display: block;
+        font-size: 22px;
+        background-color:#fff;
+    }
+    .llogo{
+        width: 90px;
+    }
+    .nav_links {
+    display: none;
+    }
+    .main_text-inside {
+        gap: 2px;
+    }
+    .title{
+        margin: 7px 0;
+    }
+    .menu{
+        font-size: 20px;
+    }
+    .nav_box{
+        width: unset;
+    }
+}
+@media(max-width:850px) {
+    .syorfin{
+        width: 420px;
+    }
+    .dil{
+        margin-bottom: 30px;
+    }
+    .logo{
+        width: 80px;
+    }
+    .nik{
+        font-size: 10px;
+    }
+    .nike{
+        font-size: 10px;
+    }
+    .footer .nav_box{
+        padding: 16px 0 ;
+    }
+    .nav{
+        margin-top: 12px;
+    }
+    .ologo{
+        gap: 2px;
+    }
+    .img {
+        margin: 10px 0 18px;
+    }
+    .llogo{
+        width: 85px;
+    }
+    .main_text-inside {
+        flex-wrap: nowrap;
+        overflow: hidden;
+        overflow-x: scroll;
+        gap: 1px;
+        justify-content: flex-start; 
+    }
+    .title{
+        margin: 6px 0;
+    }
+    .menu{
+        font-size: 18px;
+    }
+    .text-scroll{
+        height: 120px;
+        overflow-x: scroll;
+    }
+    .tex_box-text{
+        overflow-x: scroll;
+    }
+    .tex-green {
+        border-radius: 0;
+    } 
+    .tex-blue {
+        border-radius: 0;
+    }
+}
+@media(max-width:750px) {
+    .main_text-inside {
+        gap: 0.5px;  
+    }
+    .dil{
+        margin-bottom: 28px;
+    }
+    .nav_logo{
+        gap: 1px;
+    }
+    .logo{
+        width: 75px;
+    }
+    .footer.nav_box{
+        padding: 15px 0 ;
+    }
+    .llogo{
+        width: 80px;
+    }
+    .menu{
+        font-size: 16px;
+    }
+    .ologo{
+        gap: 1px;
+    }
+    .tex{
+        flex-shrink: 0;
+        width: 250px;
+    }
+    .title{
+        margin: 5px 0;
+    } 
+    .syorfin{
+        width: 70%;
+    } 
+    .shahsiz{
+        font-size: 12px;
+    }   
+}
+@media(max-width:600px) {
+    .ologo{
+        gap: 0;
+    }
+    .nav_logo{
+        gap: 0;
+    }
+    .dil{
+        margin-bottom: 26px;
+    }
+    .logo{
+        width: 70px;
+    }
+    .footer .nav_box{
+        padding: 14px 0 ;
+    }
+    .img {
+        margin: 10px 0 16px;
+    }
+    .nav{
+        margin-top: 10px;
+    }
+    .llogo{
+        width: 75px;
+    }
+    .title{
+        margin: 4px 0;
+    }
+}
+@media(max-width:500px) { 
+    .dil{
+        margin-bottom: 24px;
+    }
+    .llogo{
+        width: 70px;
+    }
+    .footer .nav_box {    
+           padding: 12px 0 ;
+    }
+    .img_title{
+        font-size: 14px;
+        margin: auto;
+    }       
+        .img_text {
+            gap: 10px;
+            font-size: 12px;
+        }
+        .title{
+            font-size: 14px;
+        }
+        .menu{
+            font-size: 14px;
+        }
+}
+@media(max-width:400px) {
+    .title{
+        margin: 3px 0;
+    }
+    .dil{
+        margin-bottom: 22px;
+    }
+    .img {
+        margin: 10px 0 14px;
+    }
+}
+@media(max-width:320px) {
+    .img {
+        margin: 8px 0 12px;
+    }
+    .dil{
+        margin-bottom: 20px;
+    }
+}
